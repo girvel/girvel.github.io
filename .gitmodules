@@ -1,0 +1,3 @@
+[submodule "girvel"]
+	path = girvel
+	url = https://github.com/girvel/girvel
