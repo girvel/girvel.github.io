@@ -16,7 +16,7 @@ github_username: "girvel"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "dinky"
 
 rss: rss
 
