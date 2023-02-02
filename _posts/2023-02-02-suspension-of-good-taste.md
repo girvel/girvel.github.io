@@ -1,3 +1,5 @@
+# Suspension of good taste
+
 Hello there!
 
 Good taste is a quite tricky thing. Having it almost equals to intelligence in most areas of your life: you can write better code, you can choose better things, and you can escape some bad encounters with strange people. It is a very good trait, except that it can hold you back greatly.
