@@ -1,18 +1,18 @@
 # Philidor for black is actually interesting
 
-Philidor defense is traditionally considered to be a bad opening. From the point of view of an engine it can be playable, but in for a real human player it's too passive, you shouldn't play it. Moreover, when I've tried researching it, I have found much more videos with ways how to play against it than the tutorials for black itself. 
+Philidor defense is traditionally considered to be a bad opening. "From the point of view of an engine it can be playable, but for a real human player it's too passive, you shouldn't play it". Moreover, when I've tried researching it, I have found much more videos with ways how to play against it than the tutorials for black itself. 
 
-Anyway, I've played it quite a bit and found it to be quite a nice opening. It is more solid than passive, black has good control of center, a couple of interesting long-term plans and a clear setup. It has some similarities with Pirc and Italian, but it's actually much more comfortable to play.
+Anyway, I've played it quite a bit and found it to be quite a nice opening. It is more solid than passive, black has good control of the center, a couple of interesting long-term plans and a clear setup. It has some similarities with Pirc and Italian, but it's actually much more comfortable to play.
 
-Italian is basically exactly the same opening, but the dark square bishop is outside the pawn chain. It seems like an advantage, but in reality it can easily be harassed with pawns or exchanged for white's bishop. 
+Italian is basically exactly the same opening, but the dark square bishop is outside the pawn chain. It seems like an advantage, but in reality the bishop can easily be harassed with pawns or exchanged for white's bishop. 
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KVCMKV14/rnoNSajr" frameborder=0></iframe>
 
-In the philidor the bishop seems trapped, but it easily comes out at the right point to the long diagonal via f6 or to exactly the same c5, but later, when it is a more appropriate time.
+In Philidor bishop seems trapped, but it easily comes out to the long diagonal via f6 or to exactly the same c5, but later, when the timing is better.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KVCMKV14/Qev576tL" frameborder=0></iframe>
 
-Pirc is a very nice opening if white closes down the center and allows the flank pawn storm with f5, and if this variation was forced I would play it all the time, even with white, but it is not. White can easily exchange e pawns and transition to a dry queenless middlegame, where black has a very stupid dark square bishop staring at its own knight and pawn.
+Pirc is a very nice opening if white closes down the center and allows the flank pawn storm with f5; if this variation was forced, I would play it all the time, even with white. But it is not. White can easily exchange e pawns and transition to a dry queenless middlegame, where black has a very stupid dark square bishop staring at its own knight and pawn.
 
 <iframe width=600 height=371 src="https://lichess.org/study/embed/KVCMKV14/Kyn00qGh" frameborder=0></iframe>
 
