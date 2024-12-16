@@ -1,0 +1,18 @@
+PLANS
+
+- Look @ the other people's portfolio sites
+- PNG export for HH??
+- Structure: general "about me" with activity band, projects, contact
+- "Programming is my passion" & I do pet projects
+- Fallen
+    - Asynchronous script/cutscene engine (railing)
+    - Custom serialization library, that can serialize any datatypes (except threads), even closures (which no other Lua library can do) and mark modules
+    - Connected to a visual level editor LDtk
+    - HTML-based UI rendering
+- "Why should you hire me?"
+    - My code style & code overall is great.
+    - Passion
+    - Experience in different areas: backend, software, gamedev
+    - My skills in optimization, engine development, ...?
+- Looper
+- Github activity band
