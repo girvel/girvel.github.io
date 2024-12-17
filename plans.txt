@@ -1,18 +1,38 @@
 PLANS
-
 - Look @ the other people's portfolio sites
-- PNG export for HH??
-- Structure: general "about me" with activity band, projects, contact
-- "Programming is my passion" & I do pet projects
-- Fallen
-    - Asynchronous script/cutscene engine (railing)
-    - Custom serialization library, that can serialize any datatypes (except threads), even closures (which no other Lua library can do) and mark modules
-    - Connected to a visual level editor LDtk
-    - HTML-based UI rendering
-- "Why should you hire me?"
-    - My code style & code overall is great.
-    - Passion
-    - Experience in different areas: backend, software, gamedev
-    - My skills in optimization, engine development, ...?
-- Looper
-- Github activity band
+
+STRUCTURE
+- About me
+    - "Programming is my passion" & I do pet projects
+    - Skills
+    - Github activity band
+    - "Why should you hire me?"
+        - My code style & code overall is great.
+        - Passion
+        - Experience in different areas: backend, software, gamedev
+        - My skills in optimization, engine development, ...?
+
+- Jobs
+    - In form of narration
+
+- Projects
+    - Fallen: big project design & maintenance
+        - Asynchronous script/cutscene engine (railing)
+        - Custom serialization library, that can serialize any datatypes (except threads), even closures (which no other Lua library can do) and mark modules
+        - Connected to a visual level editor LDtk
+        - HTML-based UI rendering
+    - Looper: small project, easy to inspect code
+    - Search for Life: C project, low-level coding
+    - dump.lua: writing essential libraries
+    - Fallen.py: prototype-grade code is still quite good & readable
+    - ...also maybe some minor projects to show ability to work w/ different stuff
+
+- Contacts
+    - Email
+    - Telegram
+    - Github page
+    - Github workshop page
+
+FEATURES
+- Two languages
+- Local navigation bar
