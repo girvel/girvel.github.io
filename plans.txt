@@ -36,3 +36,4 @@ STRUCTURE
 FEATURES
 - Two languages
 - Local navigation bar
+- Export as a file
