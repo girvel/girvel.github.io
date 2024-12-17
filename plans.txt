@@ -17,6 +17,7 @@ STRUCTURE
 
 - Projects
     - Fallen: big project design & maintenance
+    	- A shit ton of commits & code
         - Asynchronous script/cutscene engine (railing)
         - Custom serialization library, that can serialize any datatypes (except threads), even closures (which no other Lua library can do) and mark modules
         - Connected to a visual level editor LDtk

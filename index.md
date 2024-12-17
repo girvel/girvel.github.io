@@ -10,7 +10,7 @@ title: Резюме/портфолио
 
 ![](/assets/github_activity.png)
 
-## Где я работал
+## Карьера
 
 ## Open-source проекты
 
