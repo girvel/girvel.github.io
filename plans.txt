@@ -19,12 +19,11 @@ STRUCTURE
     - Fallen: big project design & maintenance
     	- A shit ton of commits & code
         - Asynchronous script/cutscene engine (railing)
-        - Custom serialization library, that can serialize any datatypes (except threads), even closures (which no other Lua library can do) and mark modules
         - Connected to a visual level editor LDtk
         - HTML-based UI rendering
     - Looper: small project, easy to inspect code
+    - dump.lua: writing essential libraries, documentation
     - Search for Life: C project, low-level coding
-    - dump.lua: writing essential libraries
     - Fallen.py: prototype-grade code is still quite good & readable
     - ...also maybe some minor projects to show ability to work w/ different stuff
 
