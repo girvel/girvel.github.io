@@ -66,6 +66,7 @@ Repetitive task management utility for command line; written in Rust using TOML 
 
 2D mini-RPG adventure game; custom engine based on LOVE.
 
+- Developed in a small team as a non-commercial passion project
 - 17500 lines of code (from which 12500 is engine code), 1300 commits
 - Asynchronous scripting engine
 - Uses LDtk for visual level editing
