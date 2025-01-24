@@ -73,6 +73,6 @@ Repetitive task management utility for command line; written in Rust using TOML 
 
 ## Contacts
 
-- Email: [widauka@ya.ru](widauka@ya.ru)
+- Email: [widauka@ya.ru](mailto://widauka@ya.ru)
 - Telegram: [@girvel](https://t.me/girvel)
 - Github page: [@girvel](https://github.com/girvel)
