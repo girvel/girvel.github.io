@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Nikita Dobrynin / girvel
 ---
 
 ## About me
