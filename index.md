@@ -52,6 +52,12 @@ title: Никита Добрынин / girvel
 
 ### [ldump](https://github.com/girvel/ldump)
 
+Библиотека гибкой сериализации для Lua, поддерживающая все типы данных
+
+- Тщательно задокументирована
+- Тщательно покрыта тестами
+- Единственная библиотека сериализации для Lua, поддерживающая все теоретически возможные кейсы
+
 ```lua
 local ldump = require("ldump")
 
@@ -65,28 +71,15 @@ local serialized_data = ldump(world)  -- serialize to a string
 local loaded_world = load(serialized_data)()  -- deserialize the string
 ```
 
-Библиотека гибкой сериализации для Lua, поддерживающая все типы данных
-
-- Тщательно задокументирована
-- Тщательно покрыта тестами
-- Единственная библиотека сериализации для Lua, поддерживающая все теоретически возможные кейсы
-
 ### [looper](https://github.com/girvel/looper)
-
-<a target="_blank" href="./assets/looper.png"><img src="./assets/looper.png" width="70%" /></a>
 
 Утилита командной строки для отслеживания повторяющихся задач (для персонального использования); написана на Rust-е с использованием сочетания TOML + cron-выражения.
 
 - Минималистичная, полностью решает задачу, не создаёт лишней комплексности
 
-### [fallen](https://github.com/girvel/fallen)
+<a target="_blank" href="./assets/looper.png"><img src="./assets/looper.png" width="70%" /></a>
 
-<div style="display: inline;">
-    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%" /></a>
-    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%" /></a>
-    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%" /></a>
-    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%" /></a>
-</div>
+### [fallen](https://github.com/girvel/fallen)
 
 2D мини-RPG/приключение; самописный движок на основе LOVE.
 
@@ -94,6 +87,13 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
 - 17500 строк кода (из которых 12500 это код движка), 1300 коммитов
 - Асинхронный скриптовый движок
 - Использует LDtk для визуального редактирования уровней
+
+<div style="display: inline;">
+    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%" /></a>
+</div>
 
 
 ## Контакты
