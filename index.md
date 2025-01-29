@@ -73,7 +73,7 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
 
 ### [looper](https://github.com/girvel/looper)
 
-![](./assets/looper.png)
+<a target="_blank" href="./assets/looper.png"><img src="./assets/looper.png" width="70%" /></a>
 
 Утилита командной строки для отслеживания повторяющихся задач (для персонального использования); написана на Rust-е с использованием сочетания TOML + cron-выражения.
 
@@ -82,10 +82,10 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
 ### [fallen](https://github.com/girvel/fallen)
 
 <div style="display: inline;">
-    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%"></a>
-    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%"></a>
-    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%"></a>
-    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%"></a>
+    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%" /></a>
 </div>
 
 2D мини-RPG/приключение; самописный движок на основе LOVE.
