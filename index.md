@@ -18,6 +18,7 @@ title: Никита Добрынин / girvel
 - Основной бекенд стек: FastAPI, Tarantool, Flask, PostgreSQL, Git, Docker, Shell, Linux
 - Человеческие языки: Русский, Английский (технический/разговорный)
 
+---
 
 ## История работы
 
@@ -47,6 +48,7 @@ title: Никита Добрынин / girvel
 - Сен 2020 - Ноя 2020
 - Питон разработка для веба и ML, парсинг
 
+---
 
 ## Портфолио
 
@@ -95,6 +97,7 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
     <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%" /></a>
 </div>
 
+---
 
 ## Контакты
 
