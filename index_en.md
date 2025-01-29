@@ -8,13 +8,13 @@ title: Nikita Dobrynin / girvel
 
 ![](./assets/github_activity.png)
 
-- Programming is my passion, I do it as a job and in my free time
-- 4 years commercial experience, 10 years overall (see my [github history](https://github.com/girvel))
+- Programming is my passion; in my free time, I develop games, software & support a small open-source library
+- 4 years of commercial experience, 10 years overall (see my [github history](https://github.com/girvel))
 
 ### Skills
 
 - Readable and maintainable code [\[1\]](https://github.com/girvel/fallen/blob/6403fa1b2e065861b3e76af4e1edf1e8ad09c3f0/tech/sound.lua) [\[2\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/init.lua) and documentation [\[3\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/README.md)
-- Languages: Python, C#, Lua as main languages in professional setting, a ton of languages on habitual level (C, Rust, JavaScript, ...)
+- Languages: Python, C#, Lua as main languages in a professional setting, a ton of languages on habitual level (C, Rust, JavaScript, ...)
 - Backend keywords: FastAPI, Tarantool, Flask, PostgreSQL, Git, Docker, Shell, Linux
 - Real-world languages: Russian (native), English
 
@@ -25,20 +25,20 @@ title: Nikita Dobrynin / girvel
 
 - Aug 2023 - Dec 2024
 - Stepped back from full-time work because of health issues
-- Backend developent on Python+FastAPI and Lua+Tarantool
+- Backend development on Python+FastAPI and Lua+Tarantool
 - Work on personal projects (see [fallen](#fallen))
 
-### Backend developer (fintech) - OneMarketData
+### Backend Developer (Fintech) - OneMarketData
 
 - Feb 2022 - Jul 2023
 - Processing and analysing stock exchange data
 - Ecosystem development for propritary DB
 - Fancy clients: New York Stock Exchange, Credit Suisse, FCA
 
-### Fullstack developer - Лаборатория Кода
+### Fullstack Developer - Лаборатория Кода
 
 - Nov 2020 - Oct 2021
-- Fullstack development for flask+plotly
+- Full-stack development for flask+plotly
 - Writing internal CLI utilities
 - Django, Flask, Docker
 
@@ -52,7 +52,7 @@ title: Nikita Dobrynin / girvel
 
 ### [ldump](https://github.com/girvel/ldump)
 
-Robust serialization library supporting all lua types and edge cases.
+Robust serialization library supporting all Lua types and edge cases.
 
 - Thoroughly documented
 - Thoroughly tested (34 tests)
@@ -62,7 +62,7 @@ Robust serialization library supporting all lua types and edge cases.
 
 Repetitive task management utility for command line (for personal use); written in Rust using TOML + cron expressions.
 
-- Minimalistic, fully solves the problem and avoids unnecessary complexity
+- Minimalistic, fully solves the problem, and avoids unnecessary complexity
 
 ### [fallen](https://github.com/girvel/fallen)
 
