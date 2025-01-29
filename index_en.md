@@ -8,7 +8,7 @@ title: Nikita Dobrynin / girvel
 
 ![](./assets/github_activity.png)
 
-- Programming is my passion; in my free time, I develop games, software & support a small open-source library
+- Programming is my passion; in my free time, I develop games, software & support a [small open-source serialization library](#ldump)
 - 4 years of commercial experience, 10 years overall (see my [github history](https://github.com/girvel))
 
 ### Skills
