@@ -82,10 +82,10 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
 ### [fallen](https://github.com/girvel/fallen)
 
 <div style="display: inline;">
-    <img src="./assets/fallen_01.png" width="22%">
-    <img src="./assets/fallen_02.png" width="22%">
-    <img src="./assets/fallen_03.png" width="22%">
-    <img src="./assets/fallen_ldtk.png" width="22%">
+    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%"></a>
+    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%"></a>
+    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%"></a>
+    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%"></a>
 </div>
 
 2D мини-RPG/приключение; самописный движок на основе LOVE.
