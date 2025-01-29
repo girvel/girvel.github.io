@@ -52,6 +52,19 @@ title: Nikita Dobrynin / girvel
 
 ### [ldump](https://github.com/girvel/ldump)
 
+```lua
+local ldump = require("ldump")
+
+local upvalue = 42
+local world = {
+  name = "New world",
+  get_answer = function() return upvalue end,
+}
+
+local serialized_data = ldump(world)  -- serialize to a string
+local loaded_world = load(serialized_data)()  -- deserialize the string
+```
+
 Robust serialization library supporting all Lua types and edge cases.
 
 - Thoroughly documented
@@ -60,11 +73,18 @@ Robust serialization library supporting all Lua types and edge cases.
 
 ### [looper](https://github.com/girvel/looper)
 
+![](./assets/looper.png)
+
 Repetitive task management utility for command line (for personal use); written in Rust using TOML + cron expressions.
 
 - Minimalistic, fully solves the problem, and avoids unnecessary complexity
 
 ### [fallen](https://github.com/girvel/fallen)
+
+![](./assets/fallen_01.png)
+![](./assets/fallen_02.png)
+![](./assets/fallen_03.png)
+![](./assets/fallen_ldtk.png)
 
 2D mini-RPG adventure game; custom engine based on LOVE.
 

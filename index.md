@@ -52,6 +52,19 @@ title: Никита Добрынин / girvel
 
 ### [ldump](https://github.com/girvel/ldump)
 
+```lua
+local ldump = require("ldump")
+
+local upvalue = 42
+local world = {
+  name = "New world",
+  get_answer = function() return upvalue end,
+}
+
+local serialized_data = ldump(world)  -- serialize to a string
+local loaded_world = load(serialized_data)()  -- deserialize the string
+```
+
 Библиотека гибкой сериализации для Lua, поддерживающая все типы данных
 
 - Тщательно задокументирована
@@ -60,11 +73,18 @@ title: Никита Добрынин / girvel
 
 ### [looper](https://github.com/girvel/looper)
 
+![](./assets/looper.png)
+
 Утилита командной строки для отслеживания повторяющихся задач (для персонального использования); написана на Rust-е с использованием сочетания TOML + cron-выражения.
 
 - Минималистичная, полностью решает задачу, не создаёт лишней комплексности
 
 ### [fallen](https://github.com/girvel/fallen)
+
+![](./assets/fallen_01.png)
+![](./assets/fallen_02.png)
+![](./assets/fallen_03.png)
+![](./assets/fallen_ldtk.png)
 
 2D мини-RPG/приключение; самописный движок на основе LOVE.
 
