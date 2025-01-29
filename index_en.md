@@ -6,7 +6,7 @@ title: Nikita Dobrynin / girvel
 
 ## About me
 
-![](/assets/github_activity.png)
+![](./assets/github_activity.png)
 
 - Programming is my passion, I do it as a job and in my free time
 - 4 years commercial experience, 10 years overall (see my [github history](https://github.com/girvel))
