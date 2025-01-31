@@ -3,40 +3,7 @@ author: "Nikita Dobrynin / girvel"
 description: ""
 
 email: "widauka@ya.ru"
-#twitter_username: "twitteruser"
 github_username: "girvel"
-#linkedin_username: "linkedinuser"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
 
-# google_analytics: G-Y042Q8PDBS
-
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
 theme: minima
-
-# rss: rss
-# 
-# kramdown:
-#   syntax_highlighter_opts:
-#     disable: true
-#     
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
-# 
-# titles_from_headings:
-#   strip_title: true
-#   collections: true
-# 
-# defaults:
-#   - scope:
-#       path: ""
-#       type: post
-#     values:
-#       tags: Other
+header_pages: []
