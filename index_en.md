@@ -102,4 +102,4 @@ Repetitive task management utility for command line (for personal use); written 
 
 - Email: [widauka@ya.ru](mailto://widauka@ya.ru)
 - Telegram: [@girvel](https://t.me/girvel)
-- Github page: [@girvel](https://github.com/girvel)
+- Github: [@girvel](https://github.com/girvel)

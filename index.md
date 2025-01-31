@@ -107,4 +107,4 @@ local loaded_world = load(serialized_data)()  -- deserialize the string
 
 - Email: [widauka@ya.ru](mailto://widauka@ya.ru)
 - Telegram: [@girvel](https://t.me/girvel)
-- Github page: [@girvel](https://github.com/girvel)
+- Github: [@girvel](https://github.com/girvel)
