@@ -15,7 +15,7 @@ title: Никита Добрынин / girvel
 
 - Читаемый и легко поддерживаемый код [\[1\]](https://github.com/girvel/fallen/blob/6403fa1b2e065861b3e76af4e1edf1e8ad09c3f0/tech/sound.lua) [\[2\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/init.lua) и документация [\[3\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/README.md)
 - Оптимизация кода в динамических языках
-- Языки: Python, C#, Lua как основные языки для коммерческой разработки, множество других языков на любительской/вспомогательной основе (C, Rust, JavaScript, ...)
+- Языки: Python, C#, Lua как основные языки для коммерческой разработки, множество других языков на любительской/вспомогательной основе (JavaScript, C, Rust, Zig, ...)
 - Основной бэкенд стек: FastAPI, Tarantool, Flask, PostgreSQL, Git, Docker, Shell, Linux
 - Человеческие языки: Русский, Английский (технический/разговорный)
 

@@ -15,7 +15,7 @@ title: Nikita Dobrynin / girvel
 
 - Readable and maintainable code [\[1\]](https://github.com/girvel/fallen/blob/6403fa1b2e065861b3e76af4e1edf1e8ad09c3f0/tech/sound.lua) [\[2\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/init.lua) and documentation [\[3\]](https://github.com/girvel/ldump/blob/f644aafafadd49ca258d605bfaa1c05379577d30/README.md)
 - Dynamic language code optimization
-- Languages: Python, C#, Lua as main languages in a professional setting, a ton of languages on habitual level (C, Rust, JavaScript, ...)
+- Languages: Python, C#, Lua as main languages in a professional setting, a ton of languages on habitual level (JavaScript, C, Rust, Zig, ...)
 - Backend keywords: FastAPI, Tarantool, Flask, PostgreSQL, Git, Docker, Shell, Linux
 - Real-world languages: Russian (native), English
 
