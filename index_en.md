@@ -68,6 +68,9 @@ local world = {
 
 local serialized_data = ldump(world)  -- serialize to a string
 local loaded_world = load(serialized_data)()  -- deserialize the string
+
+assert.are_equal(world.name, loaded_world.name)
+assert.are_equal(world.get_answer(), loaded_world.get_answer())
 ```
 
 Robust serialization library supporting all Lua types and edge cases.
