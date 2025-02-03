@@ -75,11 +75,11 @@ Robust serialization library supporting all Lua types and edge cases.
 - Young active library (93 stars at the moment of writing)
 - The only library that covers all possible cases, including full code serialization
 - Thoroughly documented
-- Thoroughly tested (34 tests automated for all Lua versions)
+- Thoroughly tested (34 tests automated to run on 5 Lua versions)
 
 ### [looper](https://github.com/girvel/looper)
 
-![](./assets/looper.png)
+<a target="_blank" href="./assets/looper.png"><img src="./assets/looper.png" width="70%" /></a>
 
 Repetitive task management utility for command line (for personal use); written in Rust using TOML + cron expressions.
 
@@ -87,10 +87,12 @@ Repetitive task management utility for command line (for personal use); written 
 
 ### [fallen](https://github.com/girvel/fallen)
 
-![](./assets/fallen_01.png)
-![](./assets/fallen_02.png)
-![](./assets/fallen_03.png)
-![](./assets/fallen_ldtk.png)
+<div style="display: inline;">
+    <a target="_blank" href="./assets/fallen_01.png"><img src="./assets/fallen_01.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_02.png"><img src="./assets/fallen_02.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_03.png"><img src="./assets/fallen_03.png" width="22%" /></a>
+    <a target="_blank" href="./assets/fallen_ldtk.png"><img src="./assets/fallen_ldtk.png" width="22%" /></a>
+</div>
 
 2D mini-RPG adventure game; custom engine based on LOVE.
 
