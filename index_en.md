@@ -24,7 +24,7 @@ title: Nikita Dobrynin / girvel
 
 ### Backend development freelance
 
-*Aug 2023 - Dec 2024*
+*Aug 2023–Dec 2024*
 
 - Stepped back from full-time work because of health issues
 - Backend development on Python+FastAPI and Lua+Tarantool
@@ -32,15 +32,15 @@ title: Nikita Dobrynin / girvel
 
 ### Backend Developer (Fintech) - OneMarketData
 
-*Feb 2022 - Jul 2023*
+*Feb 2022–Jul 2023*
 
-- Processing and analysing stock exchange data
+- Processing and analyzing stock exchange data
 - Ecosystem development for propritary DB
 - Fancy clients: New York Stock Exchange, Credit Suisse, FCA
 
 ### Fullstack Developer - Лаборатория Кода
 
-*Nov 2020 - Oct 2021*
+*Nov 2020–Oct 2021*
 
 - Full-stack development for flask+plotly
 - Writing internal CLI utilities
@@ -48,7 +48,7 @@ title: Nikita Dobrynin / girvel
 
 ### Intern - Лаборатория Кода
 
-*Sep 2020 - Nov 2020*
+*Sep 2020–Nov 2020*
 
 - Python development for web & machine learning, data parsing
 
@@ -75,7 +75,7 @@ assert.are_equal(world.get_answer(), loaded_world.get_answer())
 
 Robust serialization library supporting all Lua types and edge cases.
 
-- Young active library (93 stars at the moment of writing)
+- Young active library (99 stars at the moment of writing)
 - The only library that covers all possible cases, including full code serialization
 - Thoroughly documented
 - Thoroughly tested (34 tests automated to run on 5 Lua versions)
